@@ -2,16 +2,24 @@
 
 ## Summary
 
-I designed, built, and destructively tested lightweight bridge and tower structures with the goal of carrying the full 15 kg competition load while using as little material as possible. I used CAD and basic FEA to compare different designs and identify likely weak points, then built and physically tested each structure to see how it actually failed. Over roughly 30 bridge iterations, I kept changing member sizes, bracing, materials, and joints until the design became nationally competitive.
+I designed, built, and destructively tested lightweight bridges and towers with the goal of carrying the full 15 kg load while using as little material as possible. Across 30+ bridge designs and around 10 tower designs, I used CAD, basic FEA, material selection, and physical failure testing to keep improving each structure. My best bridge eventually weighed **5.65 g while carrying the full 15 kg load**, reaching an efficiency of about **2,655** and finishing **top 10 nationally**.
 
 ### Key Results
 
-- Built a **5.65 g bridge that carried the full 15 kg load**, giving an efficiency of approximately **2,655**
+- Built a 5.65 g bridge that carried the full 15 kg load, giving an efficiency of approximately **2,655**
 - Finished **top 10 nationally**
-- Developed and destructively tested **30+ bridge designs and roughly 10 tower designs**
-- Used **CAD, FEA, and physical testing** together to guide design changes
-- Used **high-speed video** to analyze buckling, shear, joint, and tension failures
-- Designed **3D-printed assembly jigs** to improve consistency between builds
+- Developed and destructively tested 30+ bridge designs and roughly 10 tower designs
+- Used CAD, FEA, and physical testing together to guide design changes
+- Used high-speed video to analyze buckling, shear, joint, and tension failures
+- Designed 3D-printed assembly jigs to improve consistency between builds
+
+## Destructive Load Test
+
+https://github.com/user-attachments/assets/f05014ae-b994-4db1-a5cf-d6ac19a8d0c7
+
+<p align="center">
+  <i>Destructive load testing used to identify the initial failure location and guide the next structural iteration.</i>
+</p>
 
 
 ## Bridge \& Tower Designs
@@ -46,13 +54,6 @@ I designed, built, and destructively tested lightweight bridge and tower structu
 - I started by comparing different geometries, member sizes, and bracing layouts before committing to a physical build.
 - I used basic FEA to identify areas that were likely to become weak points, then compared those predictions against what actually happened during destructive testing.
 - The real structures did not always fail where I expected, so the physical results became the main input for the next iteration.
-
-### Load Testing
-
-<!-- DRAG YOUR BEST FAILURE VIDEO HERE -->
-
-*Destructive testing used to identify where failure started and what needed to change in the next design.*
-
 
 ## Material Selection
 
