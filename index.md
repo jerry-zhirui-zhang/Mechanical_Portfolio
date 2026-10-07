@@ -1,7 +1,3 @@
----
-title: Jerry Zhang | Mechanical Engineering Portfolio
----
-
 <h1 align="center">Jerry Zhang</h1>
 
 <p align="center">
@@ -13,8 +9,8 @@ title: Jerry Zhang | Mechanical Engineering Portfolio
 </p>
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK">Resume</a> •
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
+  <a href="https://github.com/user-attachments/files/33137197/githubResumeJerryZhang.pdf">Resume</a> •
+  <a href="https://www.linkedin.com/in/jerry-zhirui-zhang">LinkedIn</a> •
   <a href="https://github.com/jerry-zhirui-zhang">GitHub</a>
 </p>
 
@@ -27,45 +23,51 @@ title: Jerry Zhang | Mechanical Engineering Portfolio
 
 <td width="33%" valign="top" align="center">
 
-<a href="F1D-Model-Airplane.html">
-  <img width="100%" src="AIRPLANE_IMAGE_LINK" />
+<a href="F1D-Model-Airplane.md">
+  <img width="100%" src="https://github.com/user-attachments/assets/7ac5ffda-af99-4f1f-a84c-8f8cb5032c84" />
 </a>
 
-### [Competition Model Aircraft](F1D-Model-Airplane.html)
+<h3>
+  <a href="F1D-Model-Airplane.md">Competition Model Aircraft</a>
+</h3>
 
 Three years of lightweight aircraft design, fabrication, and experimental optimization.
 
-**2nd nationally • 4th nationally**
+<b>2nd nationally • 4th nationally</b>
 
 </td>
 
 
 <td width="33%" valign="top" align="center">
 
-<a href="Model_Car.html">
-  <img width="100%" src="MODEL_CAR_IMAGE_LINK" />
+<a href="Model_Car.md">
+  <img width="100%" src="https://github.com/user-attachments/assets/9074e1b1-0c4d-451f-840e-0abed51b4190" />
 </a>
 
-### [Model Car \& Launch System](Model_Car.html)
+<h3>
+  <a href="Model_Car.md">Model Car &amp; Launch System</a>
+</h3>
 
 Designed and fabricated a modular vehicle and pulley launch system optimized for speed, accuracy, and repeatability.
 
-**CAD • 3D Printing • Mechanisms**
+<b>CAD • 3D Printing • Mechanisms</b>
 
 </td>
 
 
 <td width="33%" valign="top" align="center">
 
-<a href="Lightweight_Structural_Design.html">
-  <img width="100%" src="BRIDGE_IMAGE_LINK" />
+<a href="Lightweight_Structural_Design.md">
+  <img width="100%" src="" />
 </a>
 
-### [Lightweight Structural Design](Lightweight_Structural_Design.html)
+<h3>
+  <a href="Lightweight_Structural_Design.md">Lightweight Structural Design</a>
+</h3>
 
 Designed and destructively tested 40+ bridge and tower structures through repeated failure analysis and optimization.
 
-**5.65 g → 15 kg • Top 10 nationally**
+<b>5.65 g → 15 kg • Top 10 nationally</b>
 
 </td>
 
@@ -76,7 +78,7 @@ Designed and destructively tested 40+ bridge and tower structures through repeat
 
 # About Me
 
-I am a mechanical engineering student at Texas A&M interested in hands-on design, prototyping, and testing. I especially enjoy projects where I can build a system, figure out why it does or does not work, and continue improving it through testing and iteration.
+I am a mechanical engineering student at Texas A&M interested in hands-on design, prototyping, and testing. I especially enjoy projects where I can take an idea, build it, figure out why it does or does not work, and keep improving it through testing and iteration.
 
 My current interests include mechanical design, robotics, automation, manufacturing, and mechatronics.
 
@@ -84,13 +86,4 @@ My current interests include mechanical design, robotics, automation, manufactur
 
 # Additional Projects
 
-More projects coming soon, including personal fabrication projects, Ping Pong Parachute, maglev, and other builds.
-
-<br>
-
-# Tools \& Skills
-
-**CAD:** SolidWorks, Fusion 360  
-**Fabrication:** 3D Printing, Laser Cutting, Prototyping  
-**Analysis:** FEA, Experimental Testing, Failure Analysis  
-**Programming \& Hardware:** Python, C++, Arduino, Raspberry Pi
+More projects coming soon.
