@@ -74,14 +74,12 @@ Designed and destructively tested 40+ bridge and tower structures through repeat
 
 <br>
 
+# Additional Projects
+
+More projects coming soon.
+
 # About Me
 
 I am a mechanical engineering student at Texas A&M interested in hands-on design, prototyping, and testing. I especially enjoy projects where I can take an idea, build it, figure out why it does or does not work, and keep improving it through testing and iteration.
 
 My current interests include mechanical design, robotics, automation, manufacturing, and mechatronics.
-
-<br>
-
-# Additional Projects
-
-More projects coming soon.
