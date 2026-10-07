@@ -39,7 +39,7 @@ Three years of lightweight aircraft design, fabrication, and experimental optimi
 <td width="33%" valign="top" align="center">
 
 <a href="Model_Car.md">
-  <img width="100%" src="https://github.com/user-attachments/assets/9074e1b1-0c4d-451f-840e-0abed51b4190" />
+  <img width="100%" src="https://github.com/user-attachments/assets/27321ed6-14f0-4544-952d-3461a099e0de" />
 </a>
 
 <h3>
