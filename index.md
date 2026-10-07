@@ -1,22 +1,20 @@
 <h1 align="center">Jerry Zhang</h1>
 
 <p align="center">
-  <b>Mechanical Engineering Student | Design • Prototyping • Testing</b>
+  <b>Honors Mechanical Engineering Student at Texas A&amp;M University</b><br>
 </p>
 
 <p align="center">
-  I enjoy taking mechanical ideas from an initial concept through CAD, fabrication, testing, and iteration, with a growing interest in robotics and automation.
+  <a href="YOUR_RESUME_LINK">Resume</a>
+  &nbsp;•&nbsp;
+  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/user-attachments/files/33137197/githubResumeJerryZhang.pdf">Resume</a> •
-  <a href="https://www.linkedin.com/in/jerry-zhirui-zhang">LinkedIn</a> •
-  <a href="https://github.com/jerry-zhirui-zhang">GitHub</a>
-</p>
-
-<br>
 
 # Selected Engineering Projects
+
+<p align="center">
+  <i>Click any project image to view the full design, testing, and iteration process.</i>
+</p>
 
 <table>
 <tr>
