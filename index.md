@@ -28,7 +28,7 @@
 </a>
 
 <h3>
-  <a href="F1D-Model-Airplane.md">Competition Model Aircraft</a>
+  <a href="F1D-Model-Airplane.md">Competition F1D Model Airplane</a>
 </h3>
 
 Three years of lightweight aircraft design, fabrication, and experimental optimization.
