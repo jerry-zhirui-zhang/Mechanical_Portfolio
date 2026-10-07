@@ -78,48 +78,8 @@ Designed and destructively tested 40+ bridge and tower structures through repeat
 
 # Additional Projects
 
-### [Ping Pong Parachute](Ping_Pong_Parachute.md)
-
-<p align="center">
-<a href="Ping_Pong_Parachute.md">
-<img width="250" src="https://github.com/user-attachments/assets/00c4b8fa-38ee-4c7f-8d52-d637c647ea53" />
-</a>
-</p>
-
-**3rd Nationally — 2022**  
-Bottle-rocket and parachute system optimized through repeated testing of launch stability, mass, deployment, and descent performance.
-
-### [Additional Builds \& Fabrication](Additional_Builds.md)
-
-<table align="center" width="82%">
-<tr>
-<td width="25%" align="center">
-<a href="Additional_Builds.md">
-<img width="170" src="https://github.com/user-attachments/assets/c327d88f-6338-4385-a9c2-a47695bfca48" />
-</a>
-</td>
-
-<td width="25%" align="center">
-<a href="Additional_Builds.md">
-<img width="170" src="https://github.com/user-attachments/assets/2d6ea357-b66c-4e54-9f5b-36a44d8ff46a" />
-</a>
-</td>
-
-<td width="25%" align="center">
-<a href="Additional_Builds.md">
-<img width="170" src="https://github.com/user-attachments/assets/ef0f84d8-2764-4c38-9798-00fd49715485" />
-</a>
-</td>
-
-<td width="25%" align="center">
-<a href="Additional_Builds.md">
-<img width="170" src="https://github.com/user-attachments/assets/7b842c0a-7d04-418d-8fa4-1664b9b191e1" />
-</a>
-</td>
-</tr>
-</table>
-
-Woodworking, magnetic levitation, mechanism design, and 3D-printed builds.
+- **[Ping Pong Parachute](Ping_Pong_Parachute.md)** — 3rd nationally in 2022; bottle-rocket and parachute system optimized for launch stability, deployment, and descent time.
+- **[Additional Builds & Fabrication](Additional_Builds.md)** — Woodworking, 3D-printed clock, Maglev, Catapult Mechanism 
 
 # About Me
 
