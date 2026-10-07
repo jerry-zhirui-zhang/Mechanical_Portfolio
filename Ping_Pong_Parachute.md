@@ -14,33 +14,41 @@ I designed and tested a bottle-rocket and parachute system with the goal of keep
 
 ## National Competition Flight
 
-<!-- DRAG 2022 NATIONALS VIDEO HERE -->
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/3ed25275-c130-4aff-a99f-ba3bc0c87bbc" controls width="420"></video>
+</div>
 
 <p align="center">
   <i>2022 national competition flight that earned 3rd place overall.</i>
 </p>
 
-<br>
 
 ## Rocket Design
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="ROCKET_IMAGE_1" />
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="ROCKET_IMAGE_2" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <i>Lightweight bottle-rocket design optimized for launch height.</i>
-    </td>
-    <td align="center">
-      <i>Final rocket configuration used during testing.</i>
-    </td>
-  </tr>
+<table align="center" width="85%">
+<tr>
+
+<td width="50%" align="center">
+<img width="260" src="https://github.com/user-attachments/assets/27abb47a-cddf-4800-b8fb-eadc74afa3ab" />
+</td>
+
+<td width="50%" align="center">
+<img width="260" src="https://github.com/user-attachments/assets/0a302246-bf27-4906-98e4-c9c21f8b4864" />
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<i>Lightweight bottle-rocket design optimized for launch height.</i>
+</td>
+
+<td align="center">
+<i>Final rocket configuration used during testing.</i>
+</td>
+
+</tr>
 </table>
 
 - I selected a lightweight, relatively aerodynamic bottle and tried to remove unnecessary mass so more of the stored pressure could go toward launch height.
@@ -52,46 +60,31 @@ I designed and tested a bottle-rocket and parachute system with the goal of keep
 
 ## Parachute Design
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="PARACHUTE_IMAGE_1" />
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="PARACHUTE_IMAGE_2" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <i>Parachute prototypes used while testing material and canopy size.</i>
-    </td>
-    <td align="center">
-      <i>Final competition parachute configuration.</i>
-    </td>
-  </tr>
-</table>
-
 - I experimented with different lightweight materials, including painter's plastic and Mylar, to maximize parachute area while keeping mass as low as possible.
 - I tested canopy diameter, suspension-line length, number of lines, and how the lines connected to the ping pong ball.
 - Larger parachutes produced more drag, but they were also harder to deploy consistently and required more suspension lines to fully open.
 - The final competition design used thin painter's plastic with a diameter of roughly **85 cm**.
 
-<br>
+<p align="center">
+  <img width="420" src="https://github.com/user-attachments/assets/da6aeb60-0ddd-4a3c-9d90-4cb14053411f" />
+</p>
+
+<p align="center">
+  <i>Final parachute deployed during full-system testing.</i>
+</p>
 
 ## Testing & Iteration
 
-<!-- ADD TESTING PHOTO OR VIDEO HERE -->
+https://github.com/user-attachments/assets/844042e1-5a25-4a33-b014-472f55ff7b78
 
 <p align="center">
-  <i>Rocket and parachute testing used to compare launch consistency, deployment, and descent performance.</i>
+  <i>Parachute drop testing used to compare deployment and descent performance.</i>
 </p>
 
 - I tested the **parachute separately from the rocket** whenever possible so I could compare parachute designs much faster without wasting full launches.
 - I also tested the rocket with lower-value parachutes first so I could work on launch consistency without damaging the best parachute designs.
 - Deployment became just as important as the parachute itself. Tangled suspension lines, a crooked launch, or strings catching on the rocket could remove several seconds from the flight.
 - I kept changing one major variable at a time and then combined the best rocket and parachute configurations for full-system testing.
-
-**Parachute Test → Rocket Test → Combine Systems → Observe → Adjust → Repeat**
 
 <br>
 
