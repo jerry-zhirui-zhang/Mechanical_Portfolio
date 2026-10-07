@@ -58,7 +58,7 @@ Designed and fabricated a modular vehicle and pulley launch system optimized for
 <td width="33%" valign="top" align="center">
 
 <a href="Lightweight_Structural_Design.md">
-  <img width="100%" src="" />
+  <img width="100%" src="https://github.com/user-attachments/assets/21a79c76-2755-4708-aa1a-b8e64a643ffd" />
 </a>
 
 <h3>
