@@ -1,13 +1,15 @@
 <h1 align="center">Jerry Zhang</h1>
 
 <p align="center">
-  <b>Honors Mechanical Engineering Student at Texas A&amp;M University</b><br>
+  <b>Honors Mechanical Engineering Student at Texas A\&M University</b>
 </p>
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK">Resume</a>
+  <a href="jerryzhang11@tamu.edu">jerryzhang11@tamu.edu</a>
   &nbsp;•&nbsp;
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a>
+  <a href="https://github.com/user-attachments/files/33137197/githubResumeJerryZhang.pdf">Resume</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/jerry-zhirui-zhang">LinkedIn</a>
 </p>
 
 # Selected Engineering Projects
