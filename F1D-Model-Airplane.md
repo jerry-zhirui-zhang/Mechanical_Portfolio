@@ -14,8 +14,13 @@ This was a three-year project where I designed, built, and tested lightweight ru
 - Built a setup to consistently measure **rubber motor winds and torque** between tests
 - Used CAD, laser cutting, and 3D printing to make components more accurate and repeatable
 
-<img width="4032" height="3024" alt="IMG_1059-2" src="https://github.com/user-attachments/assets/5df49b21-8b92-4040-91ac-b8e7f903f80c" />
-<i>2023 competition aircraft that placed 2nd nationally at the Science Olympiad National Tournament.</i>
+<p align="center">
+  <img width="700" alt="2023 competition aircraft" src="https://github.com/user-attachments/assets/5df49b21-8b92-4040-91ac-b8e7f903f80c" />
+</p>
+
+<p align="center">
+  <i>2023 competition aircraft that placed 2nd nationally at the Science Olympiad National Tournament.</i>
+</p>
 
 ## Flight Demonstration
 
@@ -34,7 +39,7 @@ Over three seasons, my aircraft designs changed significantly as the event rules
       <img width="100%" alt="2023 aircraft" src="https://github.com/user-attachments/assets/7ac5ffda-af99-4f1f-a84c-8f8cb5032c84" />
     </td>
     <td width="33%" align="center">
-      <img width="3021" height="2266" alt="IMG_3256" src="https://github.com/user-attachments/assets/78cc2d3b-d083-4e5d-98e4-0de9dcbc516c" />
+      <img width="100%" alt="2024 aircraft" src="https://github.com/user-attachments/assets/78cc2d3b-d083-4e5d-98e4-0de9dcbc516c" />
     </td>
   </tr>
   <tr>
