@@ -1,3 +1,9 @@
+---
+layout: page
+title: Competition F1D Model Airplane
+permalink: /F1D-Model-Airplane/
+---
+
 # Competition Model Aircraft Development
 
 ## Summary
