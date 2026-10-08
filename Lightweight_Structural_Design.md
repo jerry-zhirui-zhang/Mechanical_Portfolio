@@ -18,7 +18,11 @@ I designed, built, and destructively tested lightweight bridges and towers with 
 
 ## Destructive Load Test
 
-https://github.com/user-attachments/assets/f05014ae-b994-4db1-a5cf-d6ac19a8d0c7
+<p align="center">
+  <video width="650" controls>
+    <source src="https://github.com/user-attachments/assets/f05014ae-b994-4db1-a5cf-d6ac19a8d0c7">
+  </video>
+</p>
 
 <p align="center">
   <i>Destructive load testing used to identify the initial failure location and guide the next structural iteration.</i>
@@ -28,14 +32,14 @@ https://github.com/user-attachments/assets/f05014ae-b994-4db1-a5cf-d6ac19a8d0c7
 ## Bridge \& Tower Designs
 
 <table>
-  <tr>
-    <td width="50%" align="center">
-      <img width="1766" height="927" alt="Screenshot 2026-10-06 011952" src="https://github.com/user-attachments/assets/21a79c76-2755-4708-aa1a-b8e64a643ffd" />
-    </td>
-    <td width="50%" align="center">
-      <img width="3024" height="4032" alt="IMG_1779-2" src="https://github.com/user-attachments/assets/1e1c6d98-2e61-46fb-ba60-dc79bc2a7b46" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center">
+  <img width="100%" alt="Bridge" src="https://github.com/user-attachments/assets/21a79c76-2755-4708-aa1a-b8e64a643ffd" />
+</td>
+<td width="50%" align="center">
+  <img height="350" alt="Tower" src="https://github.com/user-attachments/assets/1e1c6d98-2e61-46fb-ba60-dc79bc2a7b46" />
+</td>
+</tr>
   <tr>
     <td align="center">
       <b>Bridge</b><br>
@@ -63,7 +67,10 @@ https://github.com/user-attachments/assets/f05014ae-b994-4db1-a5cf-d6ac19a8d0c7
 - I sorted wood by **species, density, cross-section, and intended location** instead of treating every piece of wood the same.
 - I primarily used lightweight **balsa for compression members** and denser **basswood for tension members**, where the extra strength was worth the added weight.
 - Because balsa absorbs moisture easily, I also experimented with oven-drying the wood and storing it with silica gel before testing. In some builds, I saw weight reductions approaching roughly **1 g** without an obvious decrease in load capacity.
-<img width="4032" height="3024" alt="IMG_0503" src="https://github.com/user-attachments/assets/e876ab9c-49c2-4dec-ad30-74f3dd1b6f01" />
+
+<p align="center">
+  <img width="700" alt="Balsa and basswood material selection" src="https://github.com/user-attachments/assets/e876ab9c-49c2-4dec-ad30-74f3dd1b6f01" />
+</p>
 
 <p align="center">
   <i>Balsa and basswood sorted by size, density, and intended structural role before fabrication.</i>
@@ -77,15 +84,14 @@ https://github.com/user-attachments/assets/f05014ae-b994-4db1-a5cf-d6ac19a8d0c7
 - The jigs made it easier to compare designs because I could build each iteration more consistently instead of introducing new manufacturing differences every time.
 
 <table>
-  <tr>
-    <td width="50%" align="center">
-      <img width="487" height="610" alt="Screenshot 2026-10-06 012443" src="https://github.com/user-attachments/assets/37bed3e6-b4a2-4b7f-b002-51be0396154b" />
-    </td>
-    <td width="50%" align="center">
-      <img width="361" height="408" alt="Screenshot 2026-10-06 012656" src="https://github.com/user-attachments/assets/a0480f72-c8b0-42a4-b108-be78281f2927" />
-
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center">
+  <img width="85%" alt="Bridge assembly jig" src="https://github.com/user-attachments/assets/37bed3e6-b4a2-4b7f-b002-51be0396154b" />
+</td>
+<td width="50%" align="center">
+  <img width="85%" alt="Tower assembly jig" src="https://github.com/user-attachments/assets/a0480f72-c8b0-42a4-b108-be78281f2927" />
+</td>
+</tr>
   <tr>
     <td align="center">
       <i>3D-printed jig used to control geometry during bridge assembly.</i>
@@ -105,8 +111,9 @@ https://github.com/user-attachments/assets/f05014ae-b994-4db1-a5cf-d6ac19a8d0c7
 - **Tension and shear failures** pushed me to reconsider material choice, member size, or the load path.
 - Over time, I focused less on making everything stronger and more on understanding **exactly why it failed** and only adding weight where it was needed.
 
-<img width="854" height="631" alt="Screenshot 2026-10-06 013154" src="https://github.com/user-attachments/assets/158cf7b7-6fd7-4eff-98c5-58acd1dd7d3f" />
-
+<p align="center">
+  <img width="700" alt="Bridge and tower design iterations" src="https://github.com/user-attachments/assets/158cf7b7-6fd7-4eff-98c5-58acd1dd7d3f" />
+</p>
 <p align="center">
   <i>A portion of the bridge and tower iterations built while refining member sizing, bracing, material placement, and joints.</i>
 </p>
