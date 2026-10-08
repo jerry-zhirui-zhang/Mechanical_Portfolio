@@ -1,7 +1,7 @@
 <h1 align="center">Jerry Zhang</h1>
 
 <p align="center">
-  <b>Honors Mechanical Engineering Student at Texas A\&M University</b>
+  <b>Honors Mechanical Engineering Student at Texas A&M University</b>
 </p>
 
 <p align="center">
