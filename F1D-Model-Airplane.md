@@ -25,7 +25,7 @@ This was a three-year project where I designed, built, and tested lightweight ru
 ## Flight Demonstration
 
 <p align="center">
-  <video width="380" controls>
+  <video width="460" controls>
     <source src="https://github.com/user-attachments/assets/a29556db-b7ff-4a7d-83f2-afc766a1e9a5">
   </video>
 </p>
@@ -72,7 +72,7 @@ Over three seasons, my aircraft designs changed significantly as the event rules
 
 ## Flight Test
 <p align="center">
-  <video width="380" controls>
+  <video width="340" controls>
     <source src="https://github.com/user-attachments/assets/8265ff62-ce2e-4ffe-a04a-28298072809b">
   </video>
 </p>
