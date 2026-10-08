@@ -63,7 +63,11 @@ Over three seasons, my aircraft designs changed significantly as the event rules
 **2024 — More Aggressive Experimentation**: I pushed further into custom wing geometry, including dihedral. The added complexity made the plane harder to manufacture and tune, and it ultimately performed worse than my previous design, but it taught me how important it is to balance ambitious ideas with enough time for testing.
 
 ## Flight Test
-https://github.com/user-attachments/assets/8265ff62-ce2e-4ffe-a04a-28298072809b
+<p align="center">
+  <video width="650" controls>
+    <source src="https://github.com/user-attachments/assets/8265ff62-ce2e-4ffe-a04a-28298072809b">
+  </video>
+</p>
 <p align="center">
   <i>Example flight used to evaluate climb behavior, stability, trim, and overall flight efficiency.</i>
 </p>
