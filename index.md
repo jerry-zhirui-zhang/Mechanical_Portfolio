@@ -33,7 +33,8 @@
 
 Three years of lightweight aircraft design, fabrication, and experimental optimization.
 
-<b>2nd nationally • 4th nationally</b>
+<br><br>
+<b>2nd nationally | 4th nationally</b>
 
 </td>
 
@@ -50,7 +51,8 @@ Three years of lightweight aircraft design, fabrication, and experimental optimi
 
 Designed and fabricated a modular vehicle and pulley launch system optimized for speed, accuracy, and repeatability.
 
-<b>CAD • 3D Printing • Mechanisms</b>
+<br><br>
+<b>CAD | 3D Printing | Mechanisms</b>
 
 </td>
 
@@ -67,7 +69,8 @@ Designed and fabricated a modular vehicle and pulley launch system optimized for
 
 Designed and destructively tested 40+ bridge and tower structures through repeated failure analysis and optimization.
 
-<b>5.65 g → 15 kg • Top 10 nationally</b>
+<br><br>
+<b>5.65 g → 15 kg | Top 10 nationally</b>
 
 </td>
 
