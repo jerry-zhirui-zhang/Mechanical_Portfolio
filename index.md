@@ -40,12 +40,12 @@ Three years of lightweight aircraft design, fabrication, and experimental optimi
 
 <td width="33%" valign="top" align="center">
 
-<a href="Model_Car.md">
+<a href="Model_Car.html">
   <img width="100%" src="https://github.com/user-attachments/assets/27321ed6-14f0-4544-952d-3461a099e0de" />
 </a>
 
 <h3>
-  <a href="Model_Car.md">Model Car &amp; Launch System</a>
+  <a href="Model_Car.html">Model Car &amp; Launch System</a>
 </h3>
 
 Designed and fabricated a modular vehicle and pulley launch system optimized for speed, accuracy, and repeatability.
@@ -57,12 +57,12 @@ Designed and fabricated a modular vehicle and pulley launch system optimized for
 
 <td width="33%" valign="top" align="center">
 
-<a href="Lightweight_Structural_Design.md">
+<a href="Lightweight_Structural_Design.html">
   <img width="100%" src="https://github.com/user-attachments/assets/21a79c76-2755-4708-aa1a-b8e64a643ffd" />
 </a>
 
 <h3>
-  <a href="Lightweight_Structural_Design.md">Lightweight Structural Design</a>
+  <a href="Lightweight_Structural_Design.html">Lightweight Structural Design</a>
 </h3>
 
 Designed and destructively tested 40+ bridge and tower structures through repeated failure analysis and optimization.
@@ -78,8 +78,8 @@ Designed and destructively tested 40+ bridge and tower structures through repeat
 
 # Additional Projects
 
-- **[Ping Pong Parachute](Ping_Pong_Parachute.md)** — 3rd nationally in 2022; bottle-rocket and parachute system optimized for launch stability, deployment, and descent time.
-- **[Additional Builds & Fabrication](Additional_Builds.md)** — Woodworking, 3D-printed clock, Maglev, Catapult Mechanism 
+- **[Ping Pong Parachute](Ping_Pong_Parachute.html)** — 3rd nationally in 2022; bottle-rocket and parachute system optimized for launch stability, deployment, and descent time.
+- **[Additional Builds & Fabrication](Additional_Builds.html)** — Woodworking, 3D-printed clock, Maglev, Catapult mechanism.
 
 ## About Me
 I’m a mechanical engineering student at Texas A&M who enjoys taking ideas from design to fabrication and improving them through testing and iteration. I’m especially interested in mechanical design, robotics, automation, and hands-on prototyping.
