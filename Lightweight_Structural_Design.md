@@ -29,7 +29,7 @@ I designed, built, and destructively tested lightweight bridges and towers with 
 </p>
 
 
-## Bridge \& Tower Designs
+## Bridge & Tower Designs
 
 <table>
 <tr>
@@ -77,7 +77,7 @@ I designed, built, and destructively tested lightweight bridges and towers with 
 </p>
 
 
-## Fabrication \& Jigs
+## Fabrication & Jigs
 
 - I designed **3D-printed jigs** to keep the bridge geometry and member placement consistent during assembly.
 - Since the structures weighed only a few grams, small alignment errors or excess glue could noticeably affect both weight and load capacity.
@@ -119,7 +119,7 @@ I designed, built, and destructively tested lightweight bridges and towers with 
 </p>
 
 
-## Outcome \& Takeaways
+## Outcome & Takeaways
 
 - This project was where I really learned to design around **failure**. Instead of seeing a broken bridge as just a bad test, I started treating the exact failure location as information for the next design.
 
