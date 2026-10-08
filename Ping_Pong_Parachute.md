@@ -18,7 +18,9 @@ I designed and tested a bottle-rocket and parachute system with the goal of keep
 ## National Competition Flight
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/3ed25275-c130-4aff-a99f-ba3bc0c87bbc" controls width="420"></video>
+  <video width="420" controls>
+    <source src="https://github.com/user-attachments/assets/3ed25275-c130-4aff-a99f-ba3bc0c87bbc">
+  </video>
 </div>
 
 <p align="center">
@@ -78,7 +80,11 @@ I designed and tested a bottle-rocket and parachute system with the goal of keep
 
 ## Testing & Iteration
 
-https://github.com/user-attachments/assets/844042e1-5a25-4a33-b014-472f55ff7b78
+<p align="center">
+  <video width="340" controls>
+    <source src="https://github.com/user-attachments/assets/844042e1-5a25-4a33-b014-472f55ff7b78">
+  </video>
+</p>
 
 <p align="center">
   <i>Parachute drop testing used to compare deployment and descent performance.</i>
