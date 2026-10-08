@@ -23,7 +23,7 @@
 
 <td width="33%" valign="top" align="center">
 
-<a href="F1D-Model-Airplane.md">
+<a href="F1D-Model-Airplane/">
   <img width="100%" src="https://github.com/user-attachments/assets/7ac5ffda-af99-4f1f-a84c-8f8cb5032c84" />
 </a>
 
