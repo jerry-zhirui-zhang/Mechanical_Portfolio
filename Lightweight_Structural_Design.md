@@ -1,3 +1,6 @@
+---
+---
+
 # Lightweight Structural Design
 
 ## Summary
